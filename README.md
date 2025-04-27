@@ -18,5 +18,5 @@
 ## ⚙️ Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/название-репозитория.git
+   git clone https://github.com/yahia-2002/WaterWaveSimulation.git
    ```
