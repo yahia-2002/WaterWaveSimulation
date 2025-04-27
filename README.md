@@ -26,4 +26,4 @@
 ## 📥 Установка  
 1. Скачайте проект:  
    ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/WaterWaveSimulation.git
+   git clone https://github.com/yahia-2002//WaterWaveSimulation.git
